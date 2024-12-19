@@ -3,14 +3,14 @@
 
 Welcome to **AstromaoLabs**, a collaborative GitHub organization where developers of all skill levels come together to learn, build, and grow.
 
-We all work together to create a **place for everyone**, from beginners taking their first steps in coding to experienced developers looking to share knowledge, collaborate on different projects, and build impactful software.  
+We all work together to create a **place for everyone**, from beginners taking their first steps in coding to experienced developers looking to share knowledge, collaborate on different projects, and build impactful software. We are helping each other no matter which level you are. You can start really practical working experience with the team here.
 
 ---
 
 ## **What We Do**  
 AstromaoLabs is built on the principles of:  
 - 🤝 **Peer Learning**: Share knowledge and learn through collaboration.  
-- 🛠️ **Building Real-World Projects**: Develop open-source and private projects in a variety of tools and technologies, including Python, JavaScript, C++, C#, Docker, React, Django, Figma and more.  
+- 🛠️ **Building Real-World Projects**: Develop open-source and private projects in a variety of tools and technologies, including Python, JavaScript, C++, C#, Docker, React, JavaScript, Django, PHP, Figma and more.  
 - 🌐 **Inclusivity**: A place for anyone and everyone: students, professionals, beginners, and advanced developers.  
 
 We work on projects spanning:  
@@ -29,13 +29,14 @@ By contributing to AstromaoLabs, you’ll:
 - 💻 **Enhance Your Coding Skills**: Learn new tools like GitHub workflows, Postman, Docker, certain programming practices, get used to working in a team and more, working with different programming languages and technologies, and more.  
 - 🔗 **Collaborate Remotely**: Experience team-based workflows, including pull request reviews and  issue tracking. 
 - 🧑‍💻 **Build Your Portfolio**: Add real-world projects to your resume or GitHub profile.  
-- 🚀 **Work in a Safe Space**: Experiment, make mistakes, and grow in a supportive sandbox environment.  
+- 🚀 **Work in a Safe Space**: Experiment, make mistakes, and grow in a supportive sandbox environment.
+- 👨‍💻 **Mike working community** Going through the working experience, you can easily go to your new developemt career or invite your team.
 
 ---
 
 ## **How It Works**  
 - **Casual Participation**: Join when you like, work on what interests you, and contribute at your own pace.  
-- **Structured Workflows**: Projects include templates and basic known workflows, though you are always welcome to enhance and improve the current setup. 
+- **Structured Workflows**: Projects include templates and basic known workflows(e.g.issues, pull request) though you are always welcome to enhance and improve the current setup. 
 - **Communication**: Stay connected on our **[Discord server (Coming soon!)](#)** to collaborate and discuss ideas.  
 
 ---
@@ -43,8 +44,12 @@ By contributing to AstromaoLabs, you’ll:
 ## **Achievements So Far**  
 - 🤓 **DSA-with-Cpp Repository**: A growing collection of exercises, explanations, and implementations for Data Structures and Algorithms in C++.  
 - 🎯 **Team-Based Projects**: Working together towards larger, impactful projects while supporting individual growth.  (Astromao's website, Sightseeing Web-App, and more).
-
 ---
+
+## Team based Project
+
+ **Sightseeing map web-app**
+- In this project, we are making local sightseeing map. In this app, if you open, identify your geolocation. Then, after you filter such as 30minutes by foots, the location will be showing up. User can see the detail of cafe, restaurants and sightseeing spots(evaluation, picture, name of place) also, users can read very detailed review and write that as well.
 
 ## **How to Join**  
 Joining is simple:  
