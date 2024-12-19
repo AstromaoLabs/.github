@@ -26,7 +26,7 @@ Have an idea? Propose it, and let's build it together!
 
 ## **What You’ll Gain**  
 By contributing to AstromaoLabs, you’ll:  
-- 💻 **Enhance Your Coding Skills**: Learn new tools like GitHub workflows, Postman, Docker, certain programming practices, get used to working in a team and more, working with differen programming languages and technologies, and more.  
+- 💻 **Enhance Your Coding Skills**: Learn new tools like GitHub workflows, Postman, Docker, certain programming practices, get used to working in a team and more, working with different programming languages and technologies, and more.  
 - 🔗 **Collaborate Remotely**: Experience team-based workflows, including pull request reviews and  issue tracking. 
 - 🧑‍💻 **Build Your Portfolio**: Add real-world projects to your resume or GitHub profile.  
 - 🚀 **Work in a Safe Space**: Experiment, make mistakes, and grow in a supportive sandbox environment.  
